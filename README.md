@@ -1,0 +1,1 @@
+# day1SqlbaseQuery_proje.
